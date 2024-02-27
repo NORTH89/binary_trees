@@ -44,5 +44,17 @@ Any form of plagiarism is strictly forbidden and will result in removal from the
 ### Data structures
 Please use the following data structures and types for binary trees. Don’t forget to include them in your header file.
 
-#### Basic Binary Tree
-```c
+#### 0x1C.c
+
+Functions to print binary trees in a pretty way
+
+```
+                           .----------------------(006)-------.
+                      .--(001)-------.                   .--(008)--.
+                 .--(-02)       .--(003)-------.       (007)     (009)
+       .-------(-06)          (002)       .--(005)
+  .--(-08)--.                           (004)
+(-09)     (-07)
+```
+
+[Original code](Original code from http://stackoverflow.com/a/13755911/5184480)
